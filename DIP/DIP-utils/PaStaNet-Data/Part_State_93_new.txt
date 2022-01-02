@@ -1,0 +1,93 @@
+foot: stand
+foot: tread
+foot: walk
+foot: walk
+foot: run
+foot: run
+foot: dribble
+foot: kick
+foot: jump
+foot: jump
+foot: walk
+foot: crawl
+foot: dance
+foot: fall down
+foot: martial art
+foot: no_interaction
+leg: walk
+leg: walk
+leg: run
+leg: run
+leg: jump
+leg: is close with
+leg: straddle
+leg: jump
+leg: walk
+leg: bend
+leg: kneel
+leg: crawl
+leg: dance
+leg: martial art
+leg: no_interaction
+hip: sit
+hip: sit
+hip: sit
+hip: be close with
+hip: bend
+hip: no_interaction
+hand: hold
+hand: carry
+hand: reach for
+hand: touch
+hand: put on
+hand: twist
+hand: wear
+hand: throw
+hand: throw
+hand: write
+hand: point
+hand: point
+hand: point
+hand: press
+hand: squeeze
+hand: scratch
+hand: pinch
+hand: gesture to
+hand: push
+hand: pull
+hand: pull
+hand: wash
+hand: wash
+hand: hold in both hands
+hand: lift
+hand: raise(over head)
+hand: feed
+hand: cut
+hand: catch
+hand: pour into
+hand: crawl
+hand: dance
+hand: martial art
+hand: no_interaction
+arm: carry
+arm: be close to
+arm: hug
+arm: swing
+arm: crawl
+arm: dance
+arm: martial art
+arm: no_interaction
+head: eat
+head: inspect
+head: talk
+head: talk
+head: be close with
+head: kiss
+head: put something over head
+head: lick
+head: blow
+head: drink
+head: smell
+head: wear
+head: listen
+head: no_interaction

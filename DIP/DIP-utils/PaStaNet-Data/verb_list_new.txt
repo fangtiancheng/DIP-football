@@ -1,0 +1,157 @@
+adjust
+assemble
+block
+blow
+board
+break
+brush
+buy
+carry
+catch
+chase
+check
+clean
+control
+cook
+cut
+cut
+direct
+drag
+dribble
+drink
+drive
+dry
+eat
+eat
+exit
+feed
+fill
+flip
+flush
+fly
+greet
+grind
+groom
+herd
+hit
+hold
+hop
+hose
+hug
+hunt
+watch
+install
+jump
+kick
+kiss
+lasso
+launch
+lick
+lie_on
+lift
+light
+load
+lose
+make
+milk
+move
+no_interaction
+open
+operate
+pack
+paint
+park
+pay
+peel
+pet
+pick
+pick_up
+point
+pour
+pull
+push
+race
+read
+release
+repair
+ride
+row
+run
+sail
+scratch
+serve
+set
+shear
+sign
+sip
+sit
+sit
+slide
+smell
+spin
+squeeze
+stab
+stand
+stand
+stick
+stir
+stop
+straddle
+swing
+tag
+talk
+teach
+text
+throw
+tie
+toast
+train
+turn
+type
+walk
+wash
+watch
+wave
+wear
+wield
+zip
+bend
+crawl
+crouch
+dance
+fall
+get up
+martial art
+swim
+chop
+close
+dig
+shovel
+climb
+dress
+enter
+fishing
+play board game
+play music
+play with pets
+play with kids
+extract
+press
+put down
+shoot
+smoke
+clink glass
+hand clap
+hand shake
+take a photo
+touch
+work on computer
+write
+hit
+give
+take
+grab
+listen to
+listen
+sing to
+talk to
